@@ -2,11 +2,11 @@
   "name": "one-dark-ruby",
   "displayName": "One Dark Ruby",
   "description": "One Dark syntax colors + Gnome's Adwaita background + Ruby semantic highlighting.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "icon.png",
   "galleryBanner": {
-    "color": "#1E1E1E",
-    "theme": "dark"
+    "color": "#EFF1F3",
+    "theme": "light"
   },
   "publisher": "wilfison",
   "author": {
