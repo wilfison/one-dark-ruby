@@ -388,6 +388,13 @@
       }
     },
     {
+      "name": "JS variable.js",
+      "scope": "meta.field.declaration.js,meta.definition.variable.js.jsx,meta.definition.variable.js.tsx,meta.definition.variable.js.ts",
+      "settings": {
+        "foreground": "#F94B65"
+      }
+    },
+    {
       "name": "operator logical",
       "scope": "keyword.operator.logical",
       "settings": {
