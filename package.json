@@ -1,0 +1,51 @@
+{
+  "name": "one-dark-ruby",
+  "displayName": "One Dark Ruby",
+  "description": "One Dark syntax colors + Gnome's Adwaita background + Ruby semantic highlighting.",
+  "version": "0.0.1",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#1E1E1E",
+    "theme": "dark"
+  },
+  "publisher": "wilfison",
+  "author": {
+    "name": "wilfison",
+    "url": "https://github.com/wilfison"
+  },
+  "repository": {
+    "url": "https://github.com/wilfison/one-dark-ruby"
+  },
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "tags": [
+    "ruby",
+    "haml",
+    "erb",
+    "gnome",
+    "adwaita"
+  ],
+  "keywords": [
+    "ruby",
+    "haml",
+    "erb",
+    "gnome",
+    "adwaita"
+  ],
+  "recommendations": [
+    "Shopify.ruby-lsp"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Dark Ruby",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one-dark-ruby-color-theme.json"
+      }
+    ]
+  }
+}
