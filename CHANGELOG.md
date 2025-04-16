@@ -1,8 +1,10 @@
 # Change Log
 
-All notable changes to the "one-dark-ruby" extension will be documented in this file.
+## [0.0.3] - 2025-04-15
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Fix: javascript punctuation.
+- Fix: ruby punctuation.
+- Fix: ruby interpolated string.
 
 ## [Unreleased]
 
