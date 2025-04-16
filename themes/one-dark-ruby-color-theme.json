@@ -388,13 +388,6 @@
       }
     },
     {
-      "name": "JS variable.js",
-      "scope": "meta.field.declaration.js,meta.definition.variable.js.jsx,meta.definition.variable.js.tsx,meta.definition.variable.js.ts",
-      "settings": {
-        "foreground": "#F94B65"
-      }
-    },
-    {
       "name": "operator logical",
       "scope": "keyword.operator.logical",
       "settings": {
@@ -2082,7 +2075,7 @@
     },
     {
       "name": "Source Ruby",
-      "scope": "source.ruby",
+      "scope": "source.ruby,punctuation.separator.method.ruby",
       "settings": {
         "foreground": "#ABB2BF"
       }
@@ -2096,7 +2089,7 @@
     },
     {
       "name": "Source Ruby",
-      "scope": "string.quoted.double.interpolated.ruby source.ruby,variable.parameter.function.ruby",
+      "scope": "variable.parameter.function.ruby",
       "settings": {
         "foreground": "#F94B65"
       }
