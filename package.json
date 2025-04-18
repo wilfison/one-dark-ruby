@@ -1,8 +1,8 @@
 {
   "name": "one-dark-ruby",
   "displayName": "One Dark Ruby",
-  "description": "One Dark syntax colors + Gnome's Adwaita background + Ruby semantic highlighting.",
-  "version": "0.0.3",
+  "description": "One Dark + Gnome's Adwaita.",
+  "version": "0.0.4",
   "icon": "icon.png",
   "galleryBanner": {
     "color": "#EFF1F3",
@@ -26,13 +26,14 @@
     "ruby",
     "haml",
     "erb",
+    "rails",
     "gnome",
     "adwaita"
   ],
   "keywords": [
     "ruby",
     "haml",
-    "erb",
+    "rails",
     "gnome",
     "adwaita"
   ],
